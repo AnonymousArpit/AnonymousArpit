@@ -27,4 +27,4 @@ I'm Arpit, a 20 years old AI Engineer.
 + a lot more :D
 
 ## Contact
-- [Linked in](https://www.linkedin.com/in/arpit-raizada/) on linkedin
+- [Linkedin](https://www.linkedin.com/in/arpit-raizada/)
