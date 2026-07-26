@@ -27,6 +27,4 @@ I'm Arpit, a 20 years old AI Engineer.
 + a lot more :D
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+- [Linked in](https://www.linkedin.com/in/arpit-raizada/) on linkedin
