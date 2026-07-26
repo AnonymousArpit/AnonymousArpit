@@ -3,23 +3,27 @@
 </h1>
 
 ## Hey! 👋
-I'm Marton, a 20 years old web developer from Hungary.
+I'm Arpit, a 20 years old AI Engineer.
 
-- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
+- 🦔 AI Engineer
 
-- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
+- 👨‍💻 Data Scientist Intern
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
+- 🧭 Web Developer
 
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+- 👥 Cyber Enthusiastic
 
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 JavaScript, Python, SQL, HTML5, CSS3
+- ⚙️ React.js, Node.js, FastAPI, WordPress
+- 🎨 Tailwind CSS, Bootstrap, Responsive Web Design
+- 🗄️ MySQL, MongoDB
+- 🔐 Cybersecurity, Ethical Hacking, OWASP Top 10, Authentication & Authorization, Network Security, Vulnerability Assessment
+- 🌐 REST APIs, OpenAI API, AI Integration
+- ☁️ Git, GitHub, AWS, VS Code
+- 📊 Pandas, NumPy, Matplotlib
 + a lot more :D
 
 ## Contact
